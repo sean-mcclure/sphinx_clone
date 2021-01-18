@@ -27,6 +27,8 @@ html, body {
 .item:nth-child(2) {
     grid-row: 2;
     background: #343131;
+    padding: 15px;
+    color: whitesmoke;
 }
 
 .item:nth-child(3) {
